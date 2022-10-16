@@ -1,0 +1,384 @@
+body {
+  background-color: #F5EFE6;
+}
+
+/*////////// navbar stat /////////*/
+#nvk {
+  background-color: #2C3333;
+  width: 95%;
+  border-radius: 10px;
+  margin-top: 10px;
+  position: relative;
+  left: 2.4%;
+}
+
+/* //////////navbar cont ///////////*/
+.navbar-brand {
+  color: white;
+  font-family: 'Amaranth', sans-serif;
+  font-size: 24px;
+  font-weight: bolder;
+  
+  letter-spacing: 1px;
+}
+
+.nav-link {
+  font-family: 'Amaranth', sans-serif;
+  color: #628e90;
+  font-size: 15px;
+  font-weight: bolder;
+  margin: 0px 20px 0px 2px;
+}
+
+/*///////////// home section ////////////*/
+#home {
+  padding: 100px 10px;
+  background-color: white;
+  border-radius: 20px;
+  margin: 10px;
+  height: 252px;
+}
+
+.h-primary {
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bolder;
+  font-size: 20px;
+  color: #545454;
+
+  width: 63%;
+  text-align: center;
+  position: relative;
+  bottom: 50px;
+  right: 8px;
+  line-height:1.58rem;
+  z-index: 1;
+ 
+}
+
+.hippie {
+  color: #628e90;
+}
+
+.skimi {
+  float: right;
+  position: relative;
+  bottom: 180px;
+  left: 10px;
+  border-radius: 10px;
+  
+}
+
+.mini {
+  position: relative;
+  bottom: 40px;
+  right:10px;
+  border-radius: 10px;
+}
+
+/*////// products page//////////// */
+.container-two{
+ 
+  background-color: white;
+ 
+  
+  height: 330px;
+}
+
+.h-sec {
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bolder;
+  font-size: 17px;
+  color: #545454;
+  text-align: center;
+  position: relative;
+  width: 51%;
+  left: 27%;
+  top: 40px;
+}
+
+/* ////////images placements ///////*/
+ #ski {
+  margin: 2px;
+  
+  display: flex;
+}
+
+ #ski .box {
+  position: relative;
+  left:27px; 
+ 
+  top: 50px;
+}
+
+
+.product-info {
+  font-family: 'Source Serif Pro', serif;
+  position: relative;
+  font-size: 9px;
+  bottom: 20px;
+  
+}
+
+.rs-txt {
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bolder;
+} 
+
+/*////// image placements 2nd line //////*/
+#ki {
+  margin: 2px;
+  display: flex;
+}
+
+#ki .hox {
+  position: relative;
+  
+  left: 17px;
+  top: 30px;
+  height: 10px;
+  width:32%;
+}
+
+.product-desc {
+  font-family: 'Source Serif Pro', serif;
+  position: relative;
+  bottom: 20px;
+  font-size: 9px;
+  left: 1px;
+}
+
+#btx {
+  position: relative;
+  bottom: 29px;
+  font-size: 10px;
+  right: 110px;
+ 
+  
+}
+
+#serv{
+  padding: 100px;
+  background-color:#FFF7E9;
+  position: relative;
+  height: 300px;
+  bottom: 40px;
+  
+  }
+  .h-tec {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bolder;
+    font-size: 25px;
+    color: #545454;
+    text-align: center;
+    position: relative;
+    width: 90%;
+    left:10px;
+   bottom:100px;
+  } 
+
+
+/*/////////// about us page /////////////*/
+ .h-abo {
+  background-color: #DFF6FF;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Source Serif Pro', serif;
+  z-index: 1;
+  text-align: center;
+  position: relative;
+  top: 55px;
+  width: 30%;
+  left: 200px;
+}
+
+.at {
+  position: relative;
+  bottom: 10px;
+  left: 2px;
+  z-index: -1;
+  border-radius: 20px;
+  border-width: 0.1px;
+  border-style: solid;
+  height: 250px;
+  
+}
+
+.twt {
+  font-family: 'Amaranth', sans-serif;
+  font-size: 18px;
+  position: relative;
+  bottom: 180px;
+  left: 205px;
+  width: 47%;
+  line-height: 1.4rem;
+}
+
+/* //////services-page ////////////*/
+.card-img-top {
+  height:80px;
+  
+}
+
+#dk {
+  position: relative;
+  bottom: 80px;
+  right: 45%;
+}
+
+#pk {
+  position: relative;
+  bottom: 253px;
+  height: 175px;
+  left:22%;
+  
+}
+
+#sk {
+  position: relative;
+  bottom: 428px;
+  left: 87%;
+  height: 175px;
+}
+
+.card-text {
+  color: #545454;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bolder;
+  font-size: 10px;
+}  
+
+
+/*/////////// contact us page //////////*/
+ #t-cont {
+  background-color: white;
+  position: relative;
+  bottom: 40px;
+  height: 300px;
+}
+
+.img-vect {
+  position: relative;
+  right: 14px;
+  top:15px;
+  
+}
+
+.t-tva {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 28px;
+  text-align: centre;
+  position: relative;
+  width: 37%;
+  left: 56%;
+  top: 80px;
+  z-index: 1;
+}
+
+.me-t {
+  color: #1746A2;
+  position: relative;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bolder;
+  font-size: 9.3px;
+  width: 42%;
+  bottom: 130px;
+  left: 57%;
+}
+
+#email-id {
+  position: relative;
+  width: 20%;
+  bottom: 140px;
+  left: 56%;
+}
+
+.mail-in {
+  position: relative;
+  left: 5px;
+  bottom: 3px;
+  font-size: 13px;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bolder;
+}
+
+#em-is {
+  font-size: 10px;
+  position: relative;
+  width: 10%;
+  bottom: 160px;
+  left: 61.50%;
+}
+
+.hov:hover {
+  color: black;
+}
+
+/* //////<!-- last section social media links -->//////////*/
+#lst-im {
+  background-color: black;
+  height: 80px;
+  
+}
+
+ .meet {
+  position: relative;
+  font-size: 12px;
+  top: 10px;
+  left: 13px;
+  width: 26%;
+  color: white;
+  font-family: 'Source Serif Pro', serif;
+  letter-spacing: 1px;
+}
+
+ #footer {
+  position: relative;
+  width: 33%;
+  bottom: 1px;
+  left: 2px;
+  letter-spacing: 5px;
+}
+
+.social-icona {
+  color: white;
+}
+
+.social-icona:hover {
+  color: #3b5998;
+}
+
+.social-iconb {
+  color: white;
+}
+
+.social-iconb:hover {
+  color: #00acee;
+}
+
+.social-iconc {
+  color: white;
+}
+
+.social-iconc:hover {
+  color: #C13584;
+}
+
+.social-icond {
+  color: white;
+}
+
+.social-icond:hover {
+  color: #0A66C2;
+}
+
+.soter {
+  color: white;
+  position: relative;
+  color: white;
+  font-size: 9px;
+  top: 5px;
+  text-align: centre;
+  left: 40%;
+  width: 24%;
+  letter-spacing: 1px;
+}  
